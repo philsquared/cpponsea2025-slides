@@ -1,2 +1,36 @@
-# cpponsea2025-slides
-Slides from C++ on Sea 2025
+# C++ on Sea Presentations 2025
+
+- [Three Cool Things in C++](/Presentations/Three_Cool_Things.pptx) by Herb Sutter
+- [Namespaces 101](/Presentations/Namespaces_101.pptx) by Sandor DARGO
+- [Building Robust Inter-Process Queues in C++](/Presentations/Building_Robust_Inter-Process_Queues_in_C++.pdf) by Jody Hagins
+- [Building the Backbone for Market Data in Modern C++](/Presentations/Building_the_Backbone_for_Market_Data_in_Modern_Cpp.pdf) by Jody Hagins, Gianluca Delfino & Robert Leahy
+- [The Pattern Matching We Already Have](https://ganets.ky/slides/2025/cpponsea) by Braden Ganetsky
+- [C++ Value Categories in Action](/Presentations/C++_Value_Categories_in_Action.pdf) by Mantrala Sandeep
+- [An Introduction to Reinforcement Learning](/Presentations/An_Introduction_to_Reinforcement_Learning.pdf) by Frances Buontempo
+- [Teaching an Old Dog New Tricks](https://old-dog-new-tricks.xania.org/c++-on-sea/#/) by Matt Godbolt
+- [CMake for the Impatient](https://arventech.com/mcs/talks/cpponsea25/cmake.html) by Steve Love
+- [Software Engineering Completeness](/Presentations/Software_Engineering_Completeness_Pyramid.pdf) by Peter Muldoon
+- [Beyond Sequential Consistency](/Presentations/Beyond_Sequential_Consistency.pdf) by Christopher Fretz
+- [Welcome to v1.0 of the meta::[[verse]]!](https://slides.com/inballevi/welcome-to-v1-0-of-the-meta-verse) by Inbal Levi
+- [Understanding Large and Unfamiliar Codebases](/Presentations/Understanding_Large_and_Unfamiliar_Codebases.pdf) by Mike Shah & Chris Croft-White
+- [To Err is Human](/Presentations/To_Err_is_Human.pdf) by Sebastian Theophil
+- [The 10 Essential Features for the Future of C++ Libraries](/Presentations/The_10_Essential_Features_for_the_Future_of_C++_Libraries.pdf) by Mateusz Pusz
+- [Safe and Readable Code](/Presentations/Safe_and_Readable_Code.pdf) by Robert Schimkowitsch
+- [Missing (and future?) C++ Range Concepts](/Presentations/Missing-and-future-Cpp-Range-Concepts.pdf) by Jonathan Müller
+- [Mind the Gap (Between Your Code and Your Toolchain)](/Presentations/Mind_the_Gap.pdf) by Yannic Staudt
+- [What Can C++ Learn About Thread Safety From Other Languages?](/Presentations/What_Can_C++_Learn_About_Thread_Safety_From_Other_Languages.pdf) by David Rowland
+- [Variadic Templates and Parameter Packs](/Presentations/Variadic_Templates_and_Parameter_Packs.pdf) by Vladimir Vishnevskii
+- [Balancing Efficiency and Flexibility](/Presentations/Balancing_Efficiency_and_Flexibility.pdf) by Marcell Juhasz
+- [The Power and Pain of Hidden Symbols](/Presentations/The_Power_and_Pain_of_Hidden_Symbols.pdf) by Jason Turner
+- [Smart Pointers, Dumb Mistakes](/Presentations/Smart_Pointers_Dumb_Mistakes.pdf) by Khushboo Verma
+- [C++ Contracts](/Presentations/C++_Contracts_a_Meaningfully_Viable_Product.pptx) by Andrei Zissu
+- [Rethink Polymorphism in C++](/Presentations/Rethink_Polymorphism_in_C++.pdf) by Nicolai Josuttis
+- [Don’t Get Overloaded by Overload Sets](/Presentations/Don't_Get_Overloaded_by_Overload_Sets.pdf) by Roth Michaels
+- [Green Programming](/Presentations/Green_Programming.pdf) by Tina Ulbrich & Hendrik Niemeyer
+- [Extending std::execution Further](/Presentations/Extending_Std-Execution_Further.pdf) by Robert Leahy
+- [C++ Performance Tips](/Presentations/C++_Performance_Tips.pdf) by Prithvi Okade & Kathleen Baker
+- [Faster, Safer, Better Ranges](/Presentations/Faster_Safer_Better_Ranges.pdf) by Tristan Brindle
+- [Will Your Program Still Be Correct Next Year?](/Presentations/Will_Your_Program_Still_Be_Correct_Next_Year.pdf) by Björn Fahller
+- [How To Get the Benefits of Rust Traits for Runtime Polymorphism in C++](/Presentations/How_To_Get_the_Benefits_of_Rust_Traits_for_Runtime_Polymorphism_in_C++.pdf) by Eduardo Madrid
+- [Understanding, Using, and Improving `std::generator`](/Presentations/Understanding_Using_and_Improving_Std-Generator.pdf) by Johannes Kalmbach
+- [Why Software Engineering Interviews are Broken and How to Actually Make them Better](https://docs.google.com/presentation/d/1U9jERDrjNZyHK1j9AeBXVT8M6B1xj0VvR2OL9Dtm6eY/edit?usp=sharing) by Kristen Shaker
